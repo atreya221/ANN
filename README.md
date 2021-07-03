@@ -1,3 +1,3 @@
-# Project_Submission_ANN_SC
+# Artificial Neural Networks
 
 This repository contains my assignment submissions for ANN Summer Camp 2020.
